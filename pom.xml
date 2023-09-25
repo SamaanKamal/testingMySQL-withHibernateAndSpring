@@ -55,6 +55,19 @@
             <artifactId>jakarta.persistence-api</artifactId>
             <version>3.1.0</version>
         </dependency>
+		<!-- Hibernate Core -->
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-core</artifactId>
+			<version>6.2.7.Final</version> <!-- Specify the version you want to use -->
+		</dependency>
+
+<!--		&lt;!&ndash; Hibernate Entity Manager (if you are using JPA) &ndash;&gt;-->
+<!--		<dependency>-->
+<!--			<groupId>org.hibernate</groupId>-->
+<!--			<artifactId>hibernate-entitymanager</artifactId>-->
+<!--			<version>5.6.15.Final</version>-->
+<!--		</dependency>-->
     </dependencies>
 
 	<build>
