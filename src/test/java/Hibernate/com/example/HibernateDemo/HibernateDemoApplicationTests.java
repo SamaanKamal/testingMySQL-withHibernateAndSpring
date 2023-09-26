@@ -1,4 +1,4 @@
-package Hibernarte.com.example.HibernateDemo;
+package Hibernate.com.example.HibernateDemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
